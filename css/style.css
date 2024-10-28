@@ -1,0 +1,78 @@
+.montez-regular {
+    font-family: "Montez", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+.montserrat-Zfont {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .avater{
+    width: 100%;
+    text-align: center;
+}
+.Registration_form{
+    height: 600px;
+    width: 400px;
+    margin: 30px auto;
+    padding: 40px;
+    border-radius: 15px;
+    border: 5px solid rgb(60, 102, 136);
+    background: #adc45a;
+}
+.wrapper{
+    width: 100%;
+    background: #d4cfcf;
+}
+.user{
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    border:1px solid black ;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.from-group{
+    width: 100%;
+    margin: 15px 0px;
+}
+.from-group label{
+    display:flex;
+    font-size: 14px;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: black;
+}
+.form-control:hover{
+    border: 1px ;
+    background-color:white ;
+    color: rgb(15, 172, 119);
+}
+.form-control{
+    width: 95%;
+    padding: 10px;
+    font-size: 14px;
+    color: aliceblue;
+    border: 2px solid bisque;
+    border-radius: 2px;
+}
+.btn{
+    padding: 15px 45px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background: black;
+    color: whitesmoke;
+    border: 1px solid rgb(224, 111, 145);
+    border-radius: 5px;
+}
+.btn:hover{
+    border: 1px ;
+    background-color:rgb(46, 134, 43) ;
+    color: rgb(1, 9, 14);
+}
